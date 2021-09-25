@@ -7,5 +7,7 @@ Algumas funções utilizadas nos programas necessitam do C++11, portanto é prec
 - `g++ -std=c++11 task2.cpp -o task2`  
 - `g++ -std=c++11 task3.cpp -o task3`  
 
+Os executáveis (.exe) presentes neste repositório foram compilados em uma máquina com Windows 10 e g++ (tdm64-1) 5.1.0.
+
 ## Modo de Uso
 TODO: preencher (tem no manual.txt)
