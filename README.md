@@ -10,4 +10,4 @@ Algumas funções utilizadas nos programas necessitam do C++11, portanto é prec
 Os executáveis (.exe) presentes neste repositório foram compilados em uma máquina com Windows 10 e g++ (tdm64-1) 5.1.0.
 
 ## Modo de Uso
-TODO: preencher (tem no manual.txt)
+TODO: preencher (tem no um README.txt pra cada um por agora)
