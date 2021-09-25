@@ -1,5 +1,5 @@
 # ALC-P1
-Primeiro Trabalho Disciplinar para COC473 - Álgebra Linear Computacional consiste em criar uma pequena biblioteca de cálculo numérico para matrizes, incluindo métodos para:  
+Primeiro Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional consiste em criar uma pequena biblioteca de cálculo numérico para matrizes, incluindo métodos para:  
 
 #### **Task 1:**
 - Solução de um sistema linear de equações AX = B utilizando:  
